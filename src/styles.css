@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+
+.faq {
+  background: blue;
+  color: #fff;
+  margin: 20px 0;
+  padding: 10px;
+}
